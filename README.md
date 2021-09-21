@@ -4,7 +4,7 @@
 
 > This task is to determine your understanding of HTML, CSS and Javascript skills along.
 
-[TASK 1 - Web page](https://kartikey0205.github.io/LGM-VIP-Web-Development/task-1/)
+[TASK 1 - Web page](https://utkarshgupta22.github.io/LGMVIP-WebDev/task-1/)
 
 > Setup
 
