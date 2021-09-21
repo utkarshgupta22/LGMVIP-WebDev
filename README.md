@@ -1,6 +1,6 @@
 # LGMVIP-WebDev
 
-# Task 1 - A single page WebPage
+# Task 1 - A single page Website
 
 > This task is to determine your understanding of HTML, CSS and Javascript skills along.
 
